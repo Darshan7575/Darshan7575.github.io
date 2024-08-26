@@ -57,13 +57,13 @@ sections:
           title: 3 first-authored papers accepted in **Interspeech 2024**
           icon: 🎉
           date: Aug, 2024
-          content: |-
+          content: |
             Details coming soon
         - block: news
           title: Joined **Ph.D program** at IITB under Prof. Preethi Jyothi
           icon: 📢
           date: Aug, 2024
-          content: |-
+          content: |
             Will be supervised by Prof. Preethi Jyothi where I will be working towards pushing the boundaries of ASR and other speech tasks 🎯. Exciting times ahead ✨.
         - block: news
           title:
@@ -75,27 +75,27 @@ sections:
           title: 1 first-authored paper accepted in ENLSP workshop at **NeurIPS 2023**
           icon: 🎉
           date: Nov, 2023
-          content: |2-
-            Our paper titled [Efficient infusion of self-supervised representations in Automatic Speech Recognition](https://arxiv.org/abs/2404.12628) has been accepted at the Efficient Natural Language and Speech Processing (ENLSP) workshop of NeurIPS 2023 to be held in New Orleans, USA 😄.
+          content: |-
+            Our paper titled <a href='https://arxiv.org/abs/2404.12628'>Efficient infusion of self-supervised representations in Automatic Speech Recognition</a> has been accepted at the Efficient Natural Language and Speech Processing (ENLSP) workshop of NeurIPS 2023 to be held in New Orleans, USA 😄.
         - block: news
           title: 1 first-authored paper accepted in **EMNLP 2023**
           date: Sept, 2023
           icon: 🎉
-          content: |-
-            Our paper titled [Accented Speech Recognition With Accent-specific Codebooks](https://aclanthology.org/2023.emnlp-main.444/) has been accepted at the main conference of EMNLP 2023 to be held in Singapore 😃.
+          content: |
+            Our paper titled <a href="https://aclanthology.org/2023.emnlp-main.444/">Accented Speech Recognition With Accent-specific Codebooks</a> has been accepted at the main conference of EMNLP 2023 to be held in Singapore 😃.
             
             [ ==Microsoft Reserach Travel Grant== awarded to attend the conference ]
         - block: news
           title: Joined **Sony Research** as an ASR Research intern
           icon: 💼
           date: July, 2023
-          content: |-
+          content: |
             Joined the Audio Content Analysis team at Sony Research India as a resarch intern. I am working on integrating speech foundation models into downstream ASR systems. 
         - block: news
           title: Graduated M.Tech with **Dr. George B Fernandes Award** 
           icon: 🎓
           date: June, 2023
-          content: |-
+          content: |
             Finished my master's from IIT Bombay with Dr. George B Fernandes Award for Excellence in Research 🎉. This award was from my thesis titled `Improving Accented Automatic Speech Recognition using Cross-attention`.
     design:
       background:
