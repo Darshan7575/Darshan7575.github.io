@@ -1,17 +1,21 @@
 ---
 # Display name
-title: 吳健雄
+title: दर्शन प्रभु
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Darshan Prabhu
+
+css_class: dark
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Darshan
+last_name: Prabhu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎧
+  background: blue
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +24,170 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D Research Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CSE, IIT Bombay
+    url: https://www.cse.iitb.ac.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:darshanp@cse.iitb.ac.in'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/DarshanPrabhu2
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/darshan_d_prabhu/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Darshan7575
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/darshan-prabhu/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=F_EUt6YAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Automatic Speech Recognition
+  - Foundation Models
+  - Natural Language Processing
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - degree: Ph.D
+    degree_full: Doctor of Philosophy
+    tenure: (2024 - present)
+    institution: Indian Institute of Technology, Bombay
+    date_start: 2024-08-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
+    filename: iitb.png
+    summary: |-
+      GPA: TBA  
+
+      Advisor: Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)
+
+      I am supervised by the amazing Prof. Preethi Jyothi. I am working broadly in the area of Automatic Speech Recognition (ASR) with an emphasis on architectural interventions.
+
+
+  - degree: M.Tech
+    degree_full: Master of Technology
+    tenure: (2020 - 2023)
+    institution: Indian Institute of Technology, Bombay
+    url: https://www.iitb.ac.in
+    date_start: 2020-08-01
+    date_end: 2023-07-31
+    filename: iitb_old.png
+    summary: |-
+      GPA: 9.76/10.0
+
+      Advisors: Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) and Prof. [Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/)
+
+      I was advised by two charismatic professors, Prof. Preethi Jyothi and Prof. Sriram Ganapathy where my thesis was centered around improving the ASR architectures in presence of accent information. 
+
+      Some of the major highlights from my master's days:
+      - Web Coordinator @ [Placement Office, IITB](https://campus.placements.iitb.ac.in/) (2021-23)
+      - Research Intern @ [Leap Lab, IIsc](http://www.leap.ee.iisc.ac.in/) (2022)
+      - Architected the new [CSE department website](http://www.cse.iitb.ac.in) (2022-23)
+      - My first publication @ EMNLP conference (2023)
+      - Recipient of the George B Fernandes Excellence in Research Award (2023)
+
+  - degree: B.E
+    degree_full: Bachelor of Engineering
+    tenure: (2016 - 2020)
+    institution: JSS Science and Technology University
+    date_start: 2016-08-01
+    date_end: 2020-05-31
+    filename: jss.jpg
+    summary: |
+      GPA: 9.41/10.0
+
+      My thesis was focused on understanidng deep learning based approaches to tackle Human Pose Estimation. Some interesting highlights from my B.E days:
+      - Software Engineer Intern @ Kredo (2020)
+      - Summer Intern @ [NanoSec](https://www.linkedin.com/company/nanosecco/) (2019)
+      - Technical Coordinator @ [Linux Campus Club](https://www.instagram.com/linuxcampusclub/) (2017-19)
+
+work:
+  - position: Research Intern
+    company_name: Sony Research India
+    company_url: 'https://www.sonyresearchindia.com/'
+    date_start: 2023-07-01
+    date_end: ''
+    filename: sony.png
+    summary: |-
+      Worked in the Audio Content Analysis team. I was tasked with integrating speech foundation models to improve downstream ASR systems. The work led to a publication in the ENLSP workshop, NeurIPS 2023.
+
+      Mentored by: [Saiganesh Mirishkar](https://www.linkedin.com/in/imganesh/)
+  - position: Research Assistant
+    company_name: CSE department, IIT Bombay
+    company_url: 'https://www.cse.iitb.ac.in'
     date_start: 2016-01-01
     date_end: 2020-12-31
+    filename: cse_iitb.png
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Worked on redesigning, developing, and maintaining the official website and internal tools for the CSE department.
+
+      Also, coordinated a team of developers which was tasked with revamping the [department website](https://www.cse.iitb.ac.in). 
+  - position: Research Intern
+    company_name: LEAP lab, IISc
+    company_url: 'https://leap.ee.iisc.ac.in/'
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    filename: iisc.jpg
+    summary: |
+      Worked on improving the accent robustness in speech recognition using cross attention between speech and accent embeddings.
+      
+      Guided by: Prof. [Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+  - name: Research Interests
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Speech Recognition
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: microphone-lines
+        color: '#eeac02'
+        color_border: '#f0bf23'
+      - name: Foundation Models
         description: ''
         percent: 80
-        icon: camera
+        icon: person-digging
+        color: '#6660d0'
+        color_border: '#b5b2ec'
+      - name: Natural Language Processing
+        description: ''
+        percent: 40
+        icon: comments
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 95
+  - name: Kannada
+    percent: 85
+  - name: Hindi
+    percent: 90
+  - name: Konkani
+    percent: 80
+  - name: Marathi
+    percent: 40
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Dr. George B Fernandes Award for Excellence in Research
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    date: '2023-08-25'
+    awarder: CSE, IIT Bombay
+    iconname: iitb.png
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded to me by the department of Computer Science, IIT Bombay. This recognizes the work done as part of my Master's thesis which was titled "Improving Accented Automatic Speech Recognition using Cross-attention".
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first-year Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in) at [Indian Institute of Technology Bombay](https://www.iitb.ac.in) (IITB). I am fortunate to be advised by the amazing Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/). Prior to this, I completed my Master's (2020-23) degree from IITB under the guidance of Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) and Prof. [Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/) where I worked on improving ASR architectures in the presence of accent information. 
+
+My interests mainly lie in exploring **architectural innovations** and **interventions** for the ASR models. Previously, I also interned at [Sony Research](https://www.sonyresearchindia.com/) (2023-24) where I worked on utilizing speech foundation models to improve downstream ASR systems.

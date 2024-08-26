@@ -5,17 +5,18 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: light
+  color: indigo
+  theme_day: minimal
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'IIT Bombay'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -31,11 +32,13 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: "right"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
+    highlight_active_link: true
     logo:
-      text: "Your Name"
+      text: "DARSHAN PRABHU"
 
 # Site footer
 footer:
@@ -44,8 +47,16 @@ footer:
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
+  design:
+    background:
+      # Choose a color such as from https://html-color-codes.info
+      color: '#F2F2F2'
+      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      text_color_light: false
+      filters:
+          brightness: 0.95
 
 # Localization
 locale:
@@ -54,7 +65,51 @@ locale:
 
 # Site features
 features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true

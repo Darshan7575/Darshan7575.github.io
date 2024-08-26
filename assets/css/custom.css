@@ -1,0 +1,75 @@
+#section-my-biography{
+    padding: 2rem 0 4rem 0 !important;
+}
+
+#section-collection{
+    padding: 2rem 0 3rem 0 !important;
+}
+
+.page-footer{
+    --tw-bg-opacity: 1;
+    background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
+
+#papers{
+    padding: 2rem 0 3rem 0 !important;
+}
+
+#section-my-skills{
+    padding: 0 0 0 0 !important;
+}
+
+#updates{
+    padding: 2rem 0 3rem 0 !important;
+}
+
+.bg-\[length\:0px_4px\] {
+    background-size: 0 4px;
+}
+
+.border-gray-500 {
+    --tw-border-opacity: 0.5;
+    border-color: rgb(71 85 105/var(--tw-border-opacity));
+}
+
+.education-tenure{
+    font-size: 0.9rem;
+}
+
+.gap-10{
+    gap: 3rem;
+}
+
+.ms-4 {
+    -webkit-margin-start: 1rem;
+    margin-inline-start: 1rem;
+}
+
+.-start-1\.5 {
+    inset-inline-start: -.375rem;
+}
+.-top-1{
+    top: -0.25rem;
+}
+
+.underline:hover {
+    font-weight: 500;
+}
+
+.pub-list-item {
+    margin-top: 0px !important;
+}
+
+#updates a{
+    color: var(--tw-prose-links);
+    text-decoration: underline;
+    font-weight: 500;
+    text-decoration-color: rgb(var(--color-secondary-300)/1);
+}
+
+#updates a:hover{
+    color: rgb(var(--color-primary-600)/1);
+    text-decoration: none;
+    border-radius: .09rem
+}
