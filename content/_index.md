@@ -75,7 +75,7 @@ sections:
           title: 1 first-authored paper accepted in ENLSP workshop at **NeurIPS 2023**
           icon: 🎉
           date: Nov, 2023
-          content: |-
+          content: |2-
             Our paper titled [Efficient infusion of self-supervised representations in Automatic Speech Recognition](https://arxiv.org/abs/2404.12628) has been accepted at the Efficient Natural Language and Speech Processing (ENLSP) workshop of NeurIPS 2023 to be held in New Orleans, USA 😄.
         - block: news
           title: 1 first-authored paper accepted in **EMNLP 2023**
