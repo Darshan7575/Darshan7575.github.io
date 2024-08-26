@@ -1,6 +1,9 @@
 ---
+
+## This author is used only for displaying name in the publication list. 
+
 # Display name
-title: Darshan Prabhu
+title: Darshan Prabhu 
 
 # Name pronunciation (optional)
 name_pronunciation: Darshan Prabhu

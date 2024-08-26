@@ -1,4 +1,7 @@
 ---
+
+## This author is used only for displaying content in the resume page. 
+
 # Display name
 title: दर्शन प्रभु
 
@@ -70,7 +73,7 @@ skills:
         percent: 40
         icon: devicon/tensorflow
 
-  - name: Hobbies
+  - name: Speech Toolkits
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
