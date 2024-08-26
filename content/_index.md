@@ -76,13 +76,13 @@ sections:
           icon: 🎉
           date: Nov, 2023
           content: |-
-            Our paper titled [*Efficient infusion of self-supervised representations in Automatic Speech Recognition*](https://arxiv.org/abs/2404.12628) has been accepted at the Efficient Natural Language and Speech Processing (ENLSP) workshop of NeurIPS 2023 to be held in New Orleans, USA 😄.
+            Our paper titled [Efficient infusion of self-supervised representations in Automatic Speech Recognition](https://arxiv.org/abs/2404.12628) has been accepted at the Efficient Natural Language and Speech Processing (ENLSP) workshop of NeurIPS 2023 to be held in New Orleans, USA 😄.
         - block: news
           title: 1 first-authored paper accepted in **EMNLP 2023**
           date: Sept, 2023
           icon: 🎉
           content: |-
-            Our paper titled [*Accented Speech Recognition With Accent-specific Codebooks*](https://aclanthology.org/2023.emnlp-main.444/) has been accepted at the main conference of EMNLP 2023 to be held in Singapore 😃.
+            Our paper titled [Accented Speech Recognition With Accent-specific Codebooks](https://aclanthology.org/2023.emnlp-main.444/) has been accepted at the main conference of EMNLP 2023 to be held in Singapore 😃.
             
             [ ==Microsoft Reserach Travel Grant== awarded to attend the conference ]
         - block: news
