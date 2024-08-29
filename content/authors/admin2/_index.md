@@ -53,7 +53,7 @@ profiles:
 
 interests:
   - Automatic Speech Recognition
-  - Foundation Models
+  - Large Language Models
   - Natural Language Processing
   - Machine Learning
 

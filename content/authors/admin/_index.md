@@ -50,7 +50,7 @@ profiles:
 
 interests:
   - Automatic Speech Recognition
-  - Foundation Models
+  - Large Language Models
   - Natural Language Processing
   - Machine Learning
 
@@ -65,7 +65,7 @@ education:
     summary: |-
       GPA: TBA  
 
-      Advisor: Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)
+      Advisor: Prof. <a href='https://www.cse.iitb.ac.in/~pjyothi/'>Preethi Jyothi</a>
 
       I am supervised by the amazing Prof. Preethi Jyothi. I am working broadly in the area of Automatic Speech Recognition (ASR) with an emphasis on architectural interventions.
 
@@ -79,16 +79,16 @@ education:
     date_end: 2023-07-31
     filename: iitb_old.png
     summary: |-
-      GPA: 9.76/10.0
+      GPA: 9.76/10.0 <a href=''></a>
 
-      Advisors: Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) and Prof. [Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/)
+      Advisors: Prof. <a href='https://www.cse.iitb.ac.in/~pjyothi/'>Preethi Jyothi</a> and Prof. <a href='http://www.leap.ee.iisc.ac.in/sriram/'>Sriram Ganapathy</a>
 
       I was advised by two charismatic professors, Prof. Preethi Jyothi and Prof. Sriram Ganapathy where my thesis was centered around improving the ASR architectures in presence of accent information. 
 
       Some of the major highlights from my master's days:
-      - Web Coordinator @ [Placement Office, IITB](https://campus.placements.iitb.ac.in/) (2021-23)
-      - Research Intern @ [Leap Lab, IIsc](http://www.leap.ee.iisc.ac.in/) (2022)
-      - Architected the new [CSE department website](http://www.cse.iitb.ac.in) (2022-23)
+      - Web Coordinator @ <a href='https://campus.placements.iitb.ac.in/'>Placement Office, IITB</a> (2021-23)
+      - Research Intern @ <a href='http://www.leap.ee.iisc.ac.in/'>Leap Lab, IIsc</a> (2022)
+      - Architected the new <a href='http://www.cse.iitb.ac.in'>CSE department website</a> (2022-23)
       - My first publication @ EMNLP conference (2023)
       - Recipient of the George B Fernandes Excellence in Research Award (2023)
 
@@ -104,8 +104,8 @@ education:
 
       My thesis was focused on understanidng deep learning based approaches to tackle Human Pose Estimation. Some interesting highlights from my B.E days:
       - Software Engineer Intern @ Kredo (2020)
-      - Summer Intern @ [NanoSec](https://www.linkedin.com/company/nanosecco/) (2019)
-      - Technical Coordinator @ [Linux Campus Club](https://www.instagram.com/linuxcampusclub/) (2017-19)
+      - Summer Intern @ <a href='https://www.linkedin.com/company/nanosecco/'>NanoSec</a> (2019)
+      - Technical Coordinator @ <a href='https://www.instagram.com/linuxcampusclub/'>Linux Campus Club</a> (2017-19)
 
 work:
   - position: Research Intern
@@ -117,7 +117,7 @@ work:
     summary: |-
       Worked in the Audio Content Analysis team. I was tasked with integrating speech foundation models to improve downstream ASR systems. The work led to a publication in the ENLSP workshop, NeurIPS 2023.
 
-      Mentored by: [Saiganesh Mirishkar](https://www.linkedin.com/in/imganesh/)
+      Mentored by: <a href='https://www.linkedin.com/in/imganesh/'>Saiganesh Mirishkar</a>
   - position: Research Assistant
     company_name: CSE department, IIT Bombay
     company_url: 'https://www.cse.iitb.ac.in'
@@ -127,7 +127,7 @@ work:
     summary: |
       Worked on redesigning, developing, and maintaining the official website and internal tools for the CSE department.
 
-      Also, coordinated a team of developers which was tasked with revamping the [department website](https://www.cse.iitb.ac.in). 
+      Also, coordinated a team of developers which was tasked with revamping the <a href='https://www.cse.iitb.ac.in'>department website</a>. 
   - position: Research Intern
     company_name: LEAP lab, IISc
     company_url: 'https://leap.ee.iisc.ac.in/'
@@ -137,7 +137,7 @@ work:
     summary: |
       Worked on improving the accent robustness in speech recognition using cross attention between speech and accent embeddings.
       
-      Guided by: Prof. [Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/)
+      Guided by: Prof. <a href='http://www.leap.ee.iisc.ac.in/sriram/'>Sriram Ganapathy</a>
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -152,7 +152,7 @@ skills:
         icon: microphone-lines
         color: '#eeac02'
         color_border: '#f0bf23'
-      - name: Foundation Models
+      - name: Large Language Models
         description: ''
         percent: 80
         icon: person-digging
