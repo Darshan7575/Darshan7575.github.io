@@ -58,7 +58,9 @@ sections:
           icon: 🎉
           date: Aug, 2024
           content: |
-            Details coming soon
+            Our papers titled <a href='https://www.isca-archive.org/interspeech_2024/prabhu24_interspeech.pdf'>Multi-Convformer</a>, <a href='https://www.isca-archive.org/interspeech_2024/mittal24_interspeech.pdf'>SALSA</a> and <a href='https://www.isca-archive.org/interspeech_2024/prabhu24b_interspeech.pdf'>Accented SSL</a> have been accepted in Interspeech 2024 to be held in Kos Island, Greece 😄.
+
+            [ ==ISCA Travel Grant== and ==Microsoft Reserach Travel Grant==  awarded to attend the conference ]
         - block: news
           title: Joined **Ph.D program** at IITB under Prof. Preethi Jyothi
           icon: 📢
@@ -109,11 +111,12 @@ sections:
     id: blogs
     content:
       title: Featured Blogs
+      count: 3
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---
