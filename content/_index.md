@@ -23,12 +23,13 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: wave.svg
+          filename: wave.webp
           filters:
-            brightness: 0.9
-          size: cover
-          position: top
-          parallax: true
+            brightness: 0.99
+            opacity: 0.8
+          size: 100%
+          # position: top
+          # parallax: true
     skills:
       block: my-skills
       content:
