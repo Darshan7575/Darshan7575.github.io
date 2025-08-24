@@ -1,0 +1,25 @@
+[
+  {
+    "name": "multi-convformer",
+    "folder": "data/2024/interspeech/multiconvformer",
+    "highlight": true,
+    "title": "Multi-Convformer: Extending Conformer with Multiple Convolution Kernels",
+    "link": "https://darshan7575.github.io/publication/multiconvformer-asr/",
+    "authors": [
+      {"name": "Darshan Prabhu", "link": null},
+      {"name": "Yifan Peng", "link": "https://pyf98.github.io/"},
+      {"name": "Preethi Jyothi", "link": "https://www.cse.iitb.ac.in/~pjyothi/"},
+      {"name": "Shinji Watanabe", "link": "https://sites.google.com/view/shinjiwatanabe"}
+    ],
+    "my_name": "Darshan Prabhu",
+    "equal_contribution": ["Darshan Prabhu", "Yifan Peng"], 
+    "venue": "Interspeech",
+    "year": 2024,
+    "arxiv": "https://szymanowiczs.github.io/bolt3d",
+    "cite": "data/2024/interspeech/multiconvformer/cite.bib",
+    "code": "https://szymanowiczs.github.io/bolt3d",
+    "poster": "data/2024/interspeech/multiconvformer/poster.pdf",
+    "slides": "data/2024/interspeech/multiconvformer/slides.pdf",
+    "abstract": "By training a latent diffusion model to directly output 3D Gaussians we enable fast (~6 seconds on a single GPU) feed-forward 3D scene generation."
+  }
+]
