@@ -1,25 +1,139 @@
 [
-  {
-    "name": "multi-convformer",
-    "folder": "data/2024/interspeech/multiconvformer",
-    "highlight": true,
-    "title": "Multi-Convformer: Extending Conformer with Multiple Convolution Kernels",
-    "link": "https://darshan7575.github.io/publication/multiconvformer-asr/",
-    "authors": [
-      {"name": "Darshan Prabhu", "link": null},
-      {"name": "Yifan Peng", "link": "https://pyf98.github.io/"},
-      {"name": "Preethi Jyothi", "link": "https://www.cse.iitb.ac.in/~pjyothi/"},
-      {"name": "Shinji Watanabe", "link": "https://sites.google.com/view/shinjiwatanabe"}
-    ],
-    "my_name": "Darshan Prabhu",
-    "equal_contribution": ["Darshan Prabhu", "Yifan Peng"], 
-    "venue": "Interspeech",
-    "year": 2024,
-    "arxiv": "https://szymanowiczs.github.io/bolt3d",
-    "cite": "data/2024/interspeech/multiconvformer/cite.bib",
-    "code": "https://szymanowiczs.github.io/bolt3d",
-    "poster": "data/2024/interspeech/multiconvformer/poster.pdf",
-    "slides": "data/2024/interspeech/multiconvformer/slides.pdf",
-    "abstract": "By training a latent diffusion model to directly output 3D Gaussians we enable fast (~6 seconds on a single GPU) feed-forward 3D scene generation."
-  }
-]
+      {
+        "name": "skip-salsa",
+        "folder": "data/publications/2025/interspeech/skip-salsa",
+        "highlight": false,
+        "title": "Skip-SALSA: Skip Synchronous Fusion of ASR LLM Decoders",
+        "link": "https://www.isca-archive.org/interspeech_2025/mittal25_interspeech.html",
+        "authors": [
+          {"name": "Ashish Mittal", "link": "https://scholar.google.com/citations?user=4LMwouUAAAAJ&hl=en"},
+          {"name": "Darshan Prabhu", "link": null},
+          {"name": "Sunita Sarawagi,", "link": "https://www.cse.iitb.ac.in/~sunita/"},
+          {"name": "Preethi Jyothi", "link": "https://www.cse.iitb.ac.in/~pjyothi/"}
+        ],
+        "my_name": "Darshan Prabhu",
+        "equal_contribution": ["Ashish Mittal", "Darshan Prabhu"], 
+        "venue": "Interspeech",
+        "year": 2025,
+        "arxiv": null,
+        "code": "https://github.com/csalt-research/salsa",
+        "award": null,
+        "poster": null,
+        "slides": "slides.pdf",
+        "abstract": "Extending <a href='https://arxiv.org/abs/2408.16542' target='_blank'>SALSA</a> with a lookahead mechanism to enable  accurate ASR–LLM coupling even under extreme tokenization fertility mismatches."
+      },
+      {
+        "name": "salsa",
+        "folder": "data/publications/2024/interspeech/salsa",
+        "highlight": true,
+        "title": "SALSA: Speedy ASR-LLM Synchronous Aggregation",
+        "link": "https://www.isca-archive.org/interspeech_2024/mittal24_interspeech.html",
+        "authors": [
+          {"name": "Ashish Mittal", "link": "https://scholar.google.com/citations?user=4LMwouUAAAAJ&hl=en"},
+          {"name": "Darshan Prabhu", "link": null},
+          {"name": "Sunita Sarawagi,", "link": "https://www.cse.iitb.ac.in/~sunita/"},
+          {"name": "Preethi Jyothi", "link": "https://www.cse.iitb.ac.in/~pjyothi/"}
+        ],
+        "my_name": "Darshan Prabhu",
+        "equal_contribution": ["Ashish Mittal", "Darshan Prabhu"], 
+        "venue": "Interspeech",
+        "year": 2024,
+        "arxiv": "https://arxiv.org/abs/2408.16542",
+        "code": "https://github.com/csalt-research/salsa",
+        "award": "Best Student Paper Finalist",
+        "poster": null,
+        "slides": "slides.pdf",
+        "abstract": "A parameter-efficient technique to couple pre-trained ASR and LLM models that is agnostic to tokenization mismatches."
+      },
+      {
+        "name": "multi-convformer",
+        "folder": "data/publications/2024/interspeech/multiconvformer",
+        "highlight": false,
+        "title": "Multi-Convformer: Extending Conformer with Multiple Convolution Kernels",
+        "link": "https://www.isca-archive.org/interspeech_2024/prabhu24_interspeech.html",
+        "authors": [
+          {"name": "Darshan Prabhu", "link": null},
+          {"name": "Yifan Peng", "link": "https://pyf98.github.io/"},
+          {"name": "Preethi Jyothi", "link": "https://www.cse.iitb.ac.in/~pjyothi/"},
+          {"name": "Shinji Watanabe", "link": "https://sites.google.com/view/shinjiwatanabe"}
+        ],
+        "my_name": "Darshan Prabhu",
+        "equal_contribution": [], 
+        "venue": "Interspeech",
+        "year": 2024,
+        "arxiv": "https://arxiv.org/abs/2407.03718v1",
+        "code": "https://github.com/espnet/espnet",
+        "award": null,
+        "poster": "poster.pdf",
+        "slides": null,
+        "abstract": "Extending the Conformer architecture with a multi-convolution setup to more effectively capture local dependencies."
+      },
+      {
+        "name": "ssl-accented-codebooks",
+        "folder": "data/publications/2024/interspeech/ssl-accented-codebooks",
+        "highlight": false,
+        "title": "Improving Self-supervised Pre-training using Accent-Specific Codebooks",
+        "link": "https://www.isca-archive.org/interspeech_2024/prabhu24b_interspeech.html",
+        "authors": [
+          {"name": "Darshan Prabhu", "link": null},
+          {"name": "Abhishek Gupta", "link": "https://www.cse.iitb.ac.in/~abhishekgupta/"},
+          {"name": "Preethi Jyothi", "link": "https://www.cse.iitb.ac.in/~pjyothi/"},
+          {"name": "Sriram Ganapathy", "link": "http://leap.ee.iisc.ac.in/sriram/"}
+        ],
+        "my_name": "Darshan Prabhu",
+        "equal_contribution": ["Darshan Prabhu", "Abhishek Gupta"], 
+        "venue": "Interspeech",
+        "year": 2024,
+        "arxiv": "https://arxiv.org/abs/2407.03734",
+        "code": "https://github.com/csalt-research/accented-codebooks-asr",
+        "award": null,
+        "poster": "poster.pdf",
+        "slides": null,
+        "abstract": "An accent-aware adaptation technique for self-supervised learning that introduces a trainable set of accent-specific codebooks to the self-supervised architecture."
+      },
+      {
+        "name": "ssl-asr",
+        "folder": "data/publications/2023/neurips/ssl-asr",
+        "highlight": false,
+        "title": "Efficient infusion of self-supervised representations in Automatic Speech Recognition",
+        "link": "https://www.sonyresearchindia.com/decoding-efficient-infusion-of-self-supervised-representations-in-automatic-speech-recognition/",
+        "authors": [
+          {"name": "Darshan Prabhu", "link": null},
+          {"name": "Sai Ganesh Mirishkar", "link": "https://scholar.google.com/citations?user=URnA9a0AAAAJ&hl=en"},
+          {"name": "Pankaj Wasnik", "link": "https://scholar.google.com/citations?user=3C5r8MoAAAAJ&hl=en"}
+        ],
+        "my_name": "Darshan Prabhu",
+        "equal_contribution": [], 
+        "venue": "ENLSP Workshop, NeurIPS",
+        "year": 2023,
+        "arxiv": "https://arxiv.org/abs/2404.12628",
+        "code": null,
+        "award": null,
+        "poster": "poster.pdf",
+        "slides": null,
+        "abstract": "Efficient techniques to integrate representations from self-supervised learning models into ASR architectures."
+      },
+      {
+        "name": "accented-codebooks",
+        "folder": "data/publications/2023/emnlp/accented-codebooks",
+        "highlight": true,
+        "title": "Accented Speech Recognition With Accent-specific Codebooks",
+        "link": "https://aclanthology.org/2023.emnlp-main.444/",
+        "authors": [
+          {"name": "Darshan Prabhu", "link": null},
+          {"name": "Preethi Jyothi", "link": "https://www.cse.iitb.ac.in/~pjyothi/"},
+          {"name": "Sriram Ganapathy", "link": "http://leap.ee.iisc.ac.in/sriram/"},
+          {"name": "Vinit Unni", "link": "https://scholar.google.com/citations?user=NU250BoAAAAJ&hl=en"}
+        ],
+        "my_name": "Darshan Prabhu",
+        "equal_contribution": [], 
+        "venue": "EMNLP",
+        "year": 2023,
+        "arxiv": "https://arxiv.org/abs/2310.15970",
+        "code": "https://github.com/csalt-research/accented-codebooks-asr",
+        "award": null,
+        "poster": "poster.pdf",
+        "slides": null,
+        "abstract": "An accent-aware adaptation technique and a modified Beam-search algorithm to incorporate a trainable set of accent-specific codebooks to the ASR architecture."
+      }
+    ]
